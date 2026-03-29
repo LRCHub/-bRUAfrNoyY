@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "White Blood",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T14:52:53.204613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Blood Ball Red Blood Ball 〜Dub Mix〜 - Dub Mix",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_White_Blood_Ball_Red_Blood_Ball_〜Dub_Mix〜_-_Dub_Mix_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Blood Ball Red Blood Ball (dub mix)",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_White_Blood_Ball_Red_Blood_Ball_(dub_mix)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Blood",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/03_White_Blood_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Blood",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/04_White_Blood_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Blood",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/05_White_Blood_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Blood",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/06_White_Blood_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Blood (10 Years On)",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/07_White_Blood_(10_Years_On)_Oh_Wonder.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White Blood",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_White_Blood_Oh_Wonder.txt"
+    }
+  ]
+}
